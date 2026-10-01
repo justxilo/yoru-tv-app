@@ -29,8 +29,8 @@ Higher N is always newer. Release notes list what changed.
 
 ## Trust
 
-- This repo contains **only signed release APKs**. The source code
-  lives in a private repository.
+- This repo contains **only signed release APKs** — nothing else is
+  published here.
 - Verify any download before installing: compare its SHA-256 checksum
   (shown next to each asset) with the value published alongside it.
 - YORU TV is free. There are no paid tiers, ads, or trackers in the app.
